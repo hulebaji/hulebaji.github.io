@@ -9,10 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study/hello blog.md",
-            "mode": "source"
+            "file": "index.md",
+            "mode": "preview",
+            "backlinks": true
           }
-        }
+        },
+        "group": "55476f4a711e99d4"
+      },
+      {
+        "id": "6576175e57e33d99",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source",
+            "backlinks": true
+          }
+        },
+        "group": "55476f4a711e99d4"
       }
     ],
     "direction": "vertical"
@@ -68,14 +83,24 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/hello blog.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1a82cdd137faa180",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
               }
             }
           }
@@ -83,11 +108,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "523a7418313f5fb0",
+  "active": "6576175e57e33d99",
   "lastOpenFiles": [
-    "study/hello blog.md",
-    "index.md"
+    "index.md",
+    "study/hello blog.md"
   ]
 }
