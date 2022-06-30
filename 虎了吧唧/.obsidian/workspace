@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study/hello blog.md",
+            "file": "index.md",
             "mode": "preview",
             "backlinks": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study/hello blog.md",
+            "file": "index.md",
             "mode": "source",
             "backlinks": true
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/hello blog.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/hello blog.md"
+                "file": "index.md"
               }
             }
           }
@@ -111,9 +111,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "523a7418313f5fb0",
+  "active": "6576175e57e33d99",
   "lastOpenFiles": [
-    "study/hello blog.md",
-    "index.md"
+    "index.md",
+    "study/hello blog.md"
   ]
 }
